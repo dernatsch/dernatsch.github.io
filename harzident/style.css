@@ -29,6 +29,7 @@ body {
     max-width: 500px;
     margin: auto;
     padding: 20px;
+    font-family: "Roboto", serif;
 }
 
 #rightmessage {
